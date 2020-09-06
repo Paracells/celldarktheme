@@ -1,10 +1,10 @@
-<scheme name="CI Dark" version="142" parent_scheme="Default">
+<scheme name="Dark Cell" version="142" parent_scheme="Default">
   <metaInfo>
     <property name="created">2020-08-08T14:27:33</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.0.0</property>
     <property name="modified">2020-08-08T14:27:49</property>
-    <property name="originalScheme">CI Dark</property>
+    <property name="originalScheme">Dark Cell</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="85e89d" />
@@ -17,7 +17,6 @@
     <option name="DOCUMENTATION_COLOR" value="282b32" />
     <option name="DOC_COMMENT_GUIDE" value="" />
     <option name="DOC_COMMENT_LINK" value="30363d" />
-    <option name="ERROR_HINT" value="f97583" />
     <option name="FILESTATUS_ADDED" value="85e89d" />
     <option name="FILESTATUS_COPIED" value="85e89d" />
     <option name="FILESTATUS_DELETED" value="959da5" />
@@ -47,12 +46,12 @@
     <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="30363d" />
     <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="73e3ff" />
     <option name="INDENT_GUIDE" value="dddddd" />
-    <option name="INFORMATION_HINT" value="85e89d" />
+    <option name="INFORMATION_HINT" value="2f333d" />
     <option name="LINE_NUMBERS_COLOR" value="525762" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c87bb1" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="MODIFIED_LINES_COLOR" value="73e3ff" />
-    <option name="NOTIFICATION_BACKGROUND" value="73e3ff" />
+    <option name="NOTIFICATION_BACKGROUND" value="30363d" />
     <option name="PROMOTION_PANE" value="73e3ff" />
     <option name="QUESTION_HINT" value="ffea7f" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
@@ -65,6 +64,7 @@
     <option name="SEPARATOR_BELOW_COLOR" value="30363d" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="30363d" />
     <option name="ScrollBar.Mac.thumbColor" value="" />
+    <option name="TAB_UNDERLINE_INACTIVE" value="525762" />
     <option name="TEARLINE_COLOR" value="30363d" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="85e89d" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="30363d" />
@@ -74,6 +74,7 @@
     <option name="VISUAL_INDENT_GUIDE" value="30363d" />
     <option name="WHITESPACES" value="30363d" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="30363d" />
+    <option name="ERROR_HINT" value="801515" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
@@ -736,6 +737,12 @@
     <option name="SQL_OUTER_QUERY_COLUMN" baseAttributes="SQL_COLUMN" />
     <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
+    <option name="TAB_SELECTED">
+      <value />
+    </option>
+    <option name="TAB_SELECTED_INACTIVE">
+      <value />
+    </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="85e89d" />

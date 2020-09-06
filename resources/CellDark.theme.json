@@ -1,5 +1,5 @@
 {
-  "name": "Cell Dark Theme",
+  "name": "Dark Cell Theme",
   "author": "Paracells",
   "editorScheme": "/CellDark.xml",
   "dark": true,
@@ -56,7 +56,6 @@
       "foreground": "#898886"
     },
     "ComboBox": {
-
       "background": "#2f333d",
       "nonEditableBackground": "#2f333d",
       "selectionBackground": "#2f333d",
