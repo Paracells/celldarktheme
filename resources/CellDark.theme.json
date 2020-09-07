@@ -10,7 +10,7 @@
       "Actions.Grey": "#F7F7F7",
       "Actions.GreyInline": "#F7F7F7",
       "Actions.GreyInline.Dark": "#eeeff0",
-      "Actions.Red": "#c31818",
+      "Actions.Red": "#911b1b",
       "Actions.Yellow": "#fff6b2",
       "Objects.BlackText": "#2f333d",
       "Objects.Blue": "#D5D5F7",
@@ -21,8 +21,8 @@
       "Objects.Purple": "#F7D5F7",
       "Objects.Red": "#F7D5D5",
       "Objects.RedStatus": "#F7D5D5",
-      "Objects.Yellow": "#9516c3",
-      "Objects.YellowDark": "#c31818"
+      "Objects.Yellow": "#ffce66",
+      "Objects.YellowDark": "#f9ab40"
     }
   },
   "ui": {
@@ -69,10 +69,9 @@
       "selectionForeground": "#E8E6E2"
     },
     "CompletionPopup": {
-      "selectionBackground": "#3A3A3A",
-      "selectionInactiveBackground": "#3A3A3A",
-      "foreground": "#E8E6E2",
-      "matchForeground": "#F8F6F2"
+      "matchForeground": "#57b2ff",
+      "selectionBackground": "#333b4f",
+      "selectionInactiveBackground": "#333b4f"
     },
     "Component": {
       "borderColor": "#525762"

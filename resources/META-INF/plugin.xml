@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>ru.paracells.cell.theme</id>
   <name>Cell Dark Theme</name>
-  <version>1.0</version>
+  <version>1.01</version>
   <vendor email="enoalife@hotmail.com" url="https://github.com/Paracells/celldarktheme">Paracells</vendor>
   
   
