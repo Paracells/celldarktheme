@@ -11,11 +11,3 @@
 <img src="./readme_assets/2.png" width="80%" alt="">
 </p>
 
-
-## Description
-
----
-
-## How to install
-
----

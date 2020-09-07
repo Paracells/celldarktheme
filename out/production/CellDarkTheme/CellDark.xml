@@ -17,6 +17,7 @@
     <option name="DOCUMENTATION_COLOR" value="282b32" />
     <option name="DOC_COMMENT_GUIDE" value="" />
     <option name="DOC_COMMENT_LINK" value="30363d" />
+    <option name="ERROR_HINT" value="801515" />
     <option name="FILESTATUS_ADDED" value="85e89d" />
     <option name="FILESTATUS_COPIED" value="85e89d" />
     <option name="FILESTATUS_DELETED" value="959da5" />
@@ -74,7 +75,6 @@
     <option name="VISUAL_INDENT_GUIDE" value="30363d" />
     <option name="WHITESPACES" value="30363d" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="30363d" />
-    <option name="ERROR_HINT" value="801515" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
@@ -507,7 +507,7 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="73e3ff" />
+        <option name="FOREGROUND" value="fff6b2" />
         <option name="BACKGROUND" value="2f333d" />
         <option name="FONT_TYPE" value="2" />
       </value>
@@ -669,6 +669,7 @@
       <value>
         <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="2f333d" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
