@@ -1,29 +1,29 @@
 <idea-plugin>
-  <id>ru.paracells.cell</id>
+  <id>ru.paracells.cell.theme</id>
   <name>Cell Dark Theme</name>
   <version>1.0</version>
   <vendor email="enoalife@hotmail.com" url="https://github.com/Paracells/celldarktheme">Paracells</vendor>
-
+  
+  
   <description><![CDATA[
-      Cell Dark Theme
+      <b>About</b>
+    <br/>
+    Simple Dark Theme, inspired Plane Theme, Godot Theme
+    <br/>
     ]]></description>
-
-  <change-notes><![CDATA[
-      First version
-    ]]>
-  </change-notes>
-
+  
   <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
-  <idea-version since-build="173.0"/>
-
+  <idea-version since-build="191.0"/>
+  
   <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
        on how to target different products -->
   <depends>com.intellij.modules.platform</depends>
-
+  
   <extensions defaultExtensionNs="com.intellij">
     <!-- Add your extensions here -->
+    <themeProvider id="bb6bfe77-bc24-45f4-a63f-7006ea95220f" path="/CellDark.theme.json" />
   </extensions>
-
+  
   <actions>
     <!-- Add your actions here -->
   </actions>
