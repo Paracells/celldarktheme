@@ -4,6 +4,8 @@
 <p align="center">
   
 <img src="https://img.shields.io/badge/made%20by-paracells-blueviolet">
+<img src="https://img.shields.io/github/v/release/paracells/celldarktheme">
+
 </p>
 
 <p align="center">
