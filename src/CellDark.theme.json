@@ -52,12 +52,16 @@
       "default.startBackground": "#1f2228",
       "default.endBackground": "#1f2228"
     },
+    "Label": {
+      "infoForeground": "#8a8d96"
+    },
     "CheckBox": {
-      "foreground": "#898886"
+      "foreground": "#E8E6E2"
     },
     "ComboBox": {
+      "disabledBackground": "#2f333d",
       "background": "#2f333d",
-      "nonEditableBackground": "#2f333d",
+      "nonEditableBackground": "#1f2228",
       "selectionBackground": "#2f333d",
       "foreground": "#E8E6E2",
       "disabledForeground": "#E8E6E2",
@@ -73,8 +77,16 @@
     "Component": {
       "borderColor": "#525762"
     },
+    "ToggleButton": {
+      "onForeground": "#ffffff",
+      "onBackground": "#57b2ff",
+      "offForeground": "#8a8d96",
+      "offBackground": "#262c3b",
+      "borderColor": "#262c3b",
+      "buttonColor": "#666c7b"
+    },
     "EditorTabs": {
-      "underlineColor": "#007eff",
+      "underlineColor": "#E8E6E2",
       "inactiveUnderlineColor": "#1f2228",
       "hoverBackground": "#282b32",
       "underlinedTabBackground": "#2f333d",
@@ -141,11 +153,11 @@
     },
     "TextArea": {
       "background": "#1f2228",
-      "inactiveBackground": "#3A3A3A"
+      "inactiveBackground": "#2f333d"
     },
     "TextField": {
       "background": "#282b32",
-      "inactiveForeground": "#3A3A3A"
+      "inactiveForeground": "#fff6b2"
     },
     "ToolBar.background": "#2f333d",
     "ToolTip": {
@@ -180,6 +192,21 @@
       "selectionBackground": "#395f8d",
       "selectionInactiveBackground": "#42576a",
       "background": "#2f333d"
+    },
+    "Popup": {
+      "paintBorder": true,
+      "Toolbar.borderColor": "#262c3b",
+      "Header.activeBackground": "#2a2d35",
+      "Header.inactiveBackground": "#262c3b",
+      "Advertiser": {
+        "foreground": "#666c7b",
+        "borderColor": "#191d27"
+      }
+    },
+    "WelcomeScreen": {
+      "Projects.selectionInactiveBackground": "#1f2228",
+      "separatorColor": "#333947"
     }
+
   }
 }
