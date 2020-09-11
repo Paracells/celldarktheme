@@ -48,13 +48,11 @@
     <option name="NOTIFICATION_BACKGROUND" value="30363d" />
     <option name="PROMOTION_PANE" value="73e3ff" />
     <option name="QUESTION_HINT" value="ffea7f" />
-    <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECENT_LOCATIONS_SELECTION" value="30363d" />
     <option name="RIGHT_MARGIN_COLOR" value="30363d" />
     <option name="SELECTED_INDENT_GUIDE" value="333b4f" />
     <option name="SELECTED_TEARLINE_COLOR" value="30363d" />
     <option name="SELECTION_BACKGROUND" value="404859" />
-    <option name="SELECTION_FOREGROUND" value="" />
     <option name="SEPARATOR_BELOW_COLOR" value="30363d" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="30363d" />
     <option name="ScrollBar.Mac.thumbColor" value="" />
@@ -70,31 +68,6 @@
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="30363d" />
   </colors>
   <attributes>
-    <option name="ANGLE_BRACKETS_RAINBOW_COLOR0">
-      <value>
-        <option name="FOREGROUND" value="e8ba36" />
-      </value>
-    </option>
-    <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
-      <value>
-        <option name="FOREGROUND" value="54a857" />
-      </value>
-    </option>
-    <option name="ANGLE_BRACKETS_RAINBOW_COLOR2">
-      <value>
-        <option name="FOREGROUND" value="359ff4" />
-      </value>
-    </option>
-    <option name="ANGLE_BRACKETS_RAINBOW_COLOR3">
-      <value>
-        <option name="FOREGROUND" value="5060bb" />
-      </value>
-    </option>
-    <option name="ANGLE_BRACKETS_RAINBOW_COLOR4">
-      <value>
-        <option name="FOREGROUND" value="179387" />
-      </value>
-    </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffea7f" />
@@ -107,7 +80,6 @@
       </value>
     </option>
     <option name="BASH.EXTERNAL_COMMAND" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
@@ -141,7 +113,6 @@
         <option name="EFFECT_COLOR" value="24292e" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
         <option name="FOREGROUND" value="f6f8fa" />
@@ -313,7 +284,6 @@
         <option name="FOREGROUND" value="a0dfff" />
       </value>
     </option>
-    <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="959da5" />
@@ -595,7 +565,6 @@
         <option name="BACKGROUND" value="aec6cf" />
       </value>
     </option>
-    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
@@ -704,31 +673,6 @@
         <option name="FOREGROUND" value="85e89d" />
       </value>
     </option>
-    <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
-      <value>
-        <option name="FOREGROUND" value="e8ba36" />
-      </value>
-    </option>
-    <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
-      <value>
-        <option name="FOREGROUND" value="54a857" />
-      </value>
-    </option>
-    <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
-      <value>
-        <option name="FOREGROUND" value="359ff4" />
-      </value>
-    </option>
-    <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
-      <value>
-        <option name="FOREGROUND" value="5060bb" />
-      </value>
-    </option>
-    <option name="ROUND_BRACKETS_RAINBOW_COLOR4">
-      <value>
-        <option name="FOREGROUND" value="179387" />
-      </value>
-    </option>
     <option name="RUNTIME_ERROR">
       <value>
         <option name="EFFECT_COLOR" value="f97583" />
@@ -778,58 +722,6 @@
       </value>
     </option>
     <option name="SQL_OUTER_QUERY_COLUMN" baseAttributes="SQL_COLUMN" />
-    <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
-      <value>
-        <option name="FOREGROUND" value="e8ba36" />
-      </value>
-    </option>
-    <option name="SQUARE_BRACKETS_RAINBOW_COLOR1">
-      <value>
-        <option name="FOREGROUND" value="54a857" />
-      </value>
-    </option>
-    <option name="SQUARE_BRACKETS_RAINBOW_COLOR2">
-      <value>
-        <option name="FOREGROUND" value="359ff4" />
-      </value>
-    </option>
-    <option name="SQUARE_BRACKETS_RAINBOW_COLOR3">
-      <value>
-        <option name="FOREGROUND" value="5060bb" />
-      </value>
-    </option>
-    <option name="SQUARE_BRACKETS_RAINBOW_COLOR4">
-      <value>
-        <option name="FOREGROUND" value="179387" />
-      </value>
-    </option>
-    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
-      <value>
-        <option name="FOREGROUND" value="e8ba36" />
-      </value>
-    </option>
-    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
-      <value>
-        <option name="FOREGROUND" value="54a857" />
-      </value>
-    </option>
-    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
-      <value>
-        <option name="FOREGROUND" value="359ff4" />
-      </value>
-    </option>
-    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR3">
-      <value>
-        <option name="FOREGROUND" value="5060bb" />
-      </value>
-    </option>
-    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR4">
-      <value>
-        <option name="FOREGROUND" value="179387" />
-      </value>
-    </option>
-    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="TAB_SELECTED">
       <value />
     </option>
@@ -906,6 +798,9 @@
     <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
     <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="STATIC_METHOD_ATTRIBUTES">
+      <value />
+    </option>
   </attributes>
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />
