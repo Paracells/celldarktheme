@@ -62,7 +62,7 @@
       "disabledBackground": "#2f333d",
       "background": "#2f333d",
       "nonEditableBackground": "#1f2228",
-      "selectionBackground": "#2f333d",
+      "selectionBackground": "#525762",
       "foreground": "#E8E6E2",
       "disabledForeground": "#E8E6E2",
       "modifiedItemForeground": "#E8E6E2",

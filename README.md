@@ -13,4 +13,3 @@
 <img src="./readme_assets/2.png" width="80%" alt="">
 </p>
 
-<script defer src="https://plugins.jetbrains.com/assets/scripts/mp-widget.js"></script>
