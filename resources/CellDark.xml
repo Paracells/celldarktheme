@@ -722,6 +722,9 @@
       </value>
     </option>
     <option name="SQL_OUTER_QUERY_COLUMN" baseAttributes="SQL_COLUMN" />
+    <option name="STATIC_METHOD_ATTRIBUTES">
+      <value />
+    </option>
     <option name="TAB_SELECTED">
       <value />
     </option>
@@ -763,8 +766,8 @@
     </option>
     <option name="TYPO">
       <value>
-        <option name="EFFECT_COLOR" value="f97583" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="fff6b2" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
@@ -798,9 +801,6 @@
     <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
     <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="STATIC_METHOD_ATTRIBUTES">
-      <value />
-    </option>
   </attributes>
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />
